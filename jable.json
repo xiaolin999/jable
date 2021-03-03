@@ -25,8 +25,8 @@ second_url_select=none
 second_url_select_attr=none
 second_url_pre=none
 search_flag=yes
-search_url=https://javtube.cc/?s=`
-search_url2=https://javtube.cc/page/^?s=`
+search_url=https://jable.tv/?s=`
+search_url2=https://jable.tv/page/^?s=`
 search_first_container_select=.main .container .posts
 search_first_items_select=.post
 search_title_select=h3 a
