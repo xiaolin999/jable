@@ -5,8 +5,8 @@
     "channels": [
         {
             "name":"频道1",
-            "logo":"https://www.example.com/foo.png",
-            "url": "https://www.example.com/channel1.m3u8"
+            "logo":"https://jable.tv/categories/bdsm/foo.png",
+            "url": "https://jable.tv/categories/bdsm/channel1.m3u8"
         },
         {
             "name": "频道2",
